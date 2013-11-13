@@ -8,6 +8,7 @@ A quick, naive C++ wrapper around [FirmataC](https://github.com/jdourlens/Firmat
     ```cpp
     #include "arduino.h"
     ```
+
 2. Add the directory which contains `arduino.h` to your compiler's include path.
 3. Add FirmataC's include directory to your compiler's include path.
 4. Make your compiler link with the FirmataC library.
